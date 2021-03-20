@@ -6,6 +6,19 @@
 	+\ But you can remove it all when you create your project.
 +\ these templates are quite flexible and the general installation guidelines can be found on my word doc note4 .
 
++\ iK to get the latest updates, maybe delete all dependencies and devdependencie in package.json and reinstall the dependencies:
+	1+\ javascript webpack template.
+npm install webpack webpack-cli --save-dev && npm i --save-dev style-loader css-loader && npm i eslint --save-dev && npm install --save-dev babel-loader @babel/core @babel/preset-env && npm install --save-dev mini-css-extract-plugin && npm install css-minimizer-webpack-plugin --save-dev && npm install --save-dev html-webpack-plugin && npm install handlebars-loader --save-dev && npm install handlebars --save && npm install webpack-dev-server --save-dev
+
+	2+\ javascript webpack with jest testing template.
+npm install webpack webpack-cli --save-dev && npm i --save-dev style-loader css-loader && npm i eslint --save-dev && npm install --save-dev babel-loader @babel/core @babel/preset-env && npm install --save-dev mini-css-extract-plugin && npm install css-minimizer-webpack-plugin --save-dev && npm install --save-dev html-webpack-plugin && npm install handlebars-loader --save-dev && npm install handlebars --save && npm install webpack-dev-server --save-dev
+
+	3+\ react webpack.
+
+
+	4+\ react webpack with jest and react-testing-library testing.
+
+
 ----------------------------------------
 ----------------------------------------
 =iK FILES YOU MUST NOT REMOVE FOR EACH TEMPLATE PROJECT:
