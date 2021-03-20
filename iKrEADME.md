@@ -17,7 +17,7 @@ npm install webpack webpack-cli --save-dev && npm i --save-dev style-loader css-
 npm install webpack webpack-cli --save-dev && npm i --save-dev style-loader css-loader && npm i eslint --save-dev && npm install --save-dev babel-loader @babel/core @babel/preset-env && npm install --save-dev mini-css-extract-plugin && npm install css-minimizer-webpack-plugin --save-dev && npm install --save-dev html-webpack-plugin && npm install handlebars-loader --save-dev && npm install handlebars --save && npm install webpack-dev-server --save-dev && npm install react react-dom && npm install --save-dev @babel/preset-react
 
 	4+\ react webpack with jest and react-testing-library testing.
-
+npm install webpack webpack-cli --save-dev && npm i --save-dev style-loader css-loader && npm i eslint --save-dev && npm install --save-dev babel-loader @babel/core @babel/preset-env && npm install --save-dev mini-css-extract-plugin && npm install css-minimizer-webpack-plugin --save-dev && npm install --save-dev html-webpack-plugin && npm install handlebars-loader --save-dev && npm install handlebars --save && npm install webpack-dev-server --save-dev && npm install react react-dom && npm install --save-dev @babel/preset-react && npm install --save-dev jest && npm install --save-dev @testing-library/react
 
 ----------------------------------------
 ----------------------------------------
