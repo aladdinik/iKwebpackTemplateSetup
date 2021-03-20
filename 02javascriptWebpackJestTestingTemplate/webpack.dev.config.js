@@ -41,7 +41,7 @@ module.exports = {
 	},
 	plugins: [
 		new HtmlWebpackPlugin({
-			title: 'iK development javascript webapck template',
+			title: 'iK development javascript webapck jest testing template',
 			template: 'src/index.hbs',
 		})
 	]
