@@ -1,11 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# package.json
-/01javascriptWebpackTemplate/package-lock.json
-/02javascriptWebpackJestTestingTemplate/package-lock.json
-/03reactWebpackTemplate/package-lock.json
-/04reactWebpackJestReacttestinglibraryTestingTemplate/package-lock.json
-
 # /node_modules
 /01javascriptWebpackTemplate/node_modules
 /02javascriptWebpackJestTestingTemplate/node_modules

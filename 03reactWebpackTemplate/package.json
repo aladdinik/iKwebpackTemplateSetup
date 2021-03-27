@@ -4,7 +4,7 @@
 	"description": "",
 	"private": true,
 	"scripts": {
-		"ikupdate": "npm install && npm update && npm audit fix && exit",
+		"ikupdate": "npm ci && npm update && npm audit fix && exit",
 		"build": "webpack --config webpack.production.config.js",
 		"start": "npm run build && node src/server.js",
 		"dev": "webpack serve --config webpack.dev.config.js --hot",

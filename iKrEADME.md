@@ -38,6 +38,8 @@ npm install webpack webpack-cli --save-dev && npm i --save-dev style-loader css-
 
 +\ ./iKbackUpFilesToTestWebpackIsWorking folder is just some quick backup files to test webpack is working fine
 	+\ usually you would use it if you already chosen a webpack template and decided afterwards you need to install react/jest/react-testing-library
+    
++\ git remote is : https://github.com/aladdinik/iKwebpackTemplateSetup.git
 
 ----------------------------------------
 ----------------------------------------

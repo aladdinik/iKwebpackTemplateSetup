@@ -48,7 +48,7 @@ module.exports = {
 			filename: 'styles.[contenthash].css'
 		}),
 		new HtmlWebpackPlugin({
-			title: 'iK production react webapck jest react-testing-library testingtemplate',
+			title: 'iK production react webapck jest react-testing-library testing template',
 			template: 'src/index.hbs',
 		})
 	]
